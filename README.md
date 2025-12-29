@@ -8,7 +8,8 @@
 
 ![Image alt](https://github.com/y3mehh/EducationalPractice/blob/main/nodejs-todo-app-master/todo.png)
 
-Как запустить?
+**Как запустить?**
+
 Для запуска приложения требуется выполнить установку всех модулей с помощью npm:
 
 ```bash
