@@ -15,7 +15,7 @@ app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
 app.use(session({
-    secret: '860932',
+    secret: 'super_secret_key',
     resave: false,
     saveUninitialized: false
 }));
@@ -25,8 +25,8 @@ const transporter = nodemailer.createTransport({
     port: 465,
     secure: true,
     auth: {
-        user: 'EREEEEEA@rambler.ru',
-        pass: 'C2g-CRu-VpR-RV8'
+        user: 'example@rambler.ru',
+        pass: 'your_password'
     }
 });
 
