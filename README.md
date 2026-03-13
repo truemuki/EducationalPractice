@@ -2,11 +2,11 @@
 
 Страница авторизации
 
-![Image alt](https://github.com/y3mehh/EducationalPractice/blob/main/nodejs-todo-app-master/avt.png)
+![Image alt](https://github.com/truemuki/EducationalPractice/blob/main/nodejs-todo-app-master/avt.png)
 
 Страница списка дел
 
-![Image alt](https://github.com/y3mehh/EducationalPractice/blob/main/nodejs-todo-app-master/todo.png)
+![Image alt](https://github.com/truemuki/EducationalPractice/blob/main/nodejs-todo-app-master/todo.png)
 
 **Как запустить?**
 
